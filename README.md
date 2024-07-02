@@ -17,21 +17,19 @@
 </p>
 
 
+## Current Focus
+
+| 🛠️ | Details |
+|---|---|
+| **🔭💫 Working On** | [Zephyr RTOS](https://github.com/mrmhnawaz/Zephyr-Applications-Synchronization-Mechanisms-and-Messaging-Techniques) |
+| **🏅🕒 Learning** | **Zephyr RTOS**, **DSA**, **Embedded Linux**, **Scripting** |
+| **🧐 Tutorials** | [Teensy Tutorials](https://github.com/mrmhnawaz/Teensy-4.0-NXP-i.MX-RT1062-Tutorials) |
+| **👨‍💻 Projects** | [All Projects](https://github.com/mrmhnawaz) |
+| **💬 Ask Me About** | **Embedded Systems**, **Microcontroller Firmware**, **RTOS**, **Arduino** |
+| **📨 Contact** | [Email](mailto:mdhussainnawaz19@gmail.com) |
+| **⚡ Fun Fact** | I laugh at myself 😂, but I won't allow others to laugh at me 😉 |
 
 
-- 🔭💫I’m currently working on [Zephyr RTOS](https://github.com/mrmhnawaz/Zephyr-Applications-Synchronization-Mechanisms-and-Messaging-Techniques)
-
-- 🏅🕒 Right now, I am delving knowledge on **Zypher-RTOS,DSA,Embedded Linux,Scripting**
-
-- 🧐 Have a look on my Tutorials [Teensy Tutorials](https://github.com/mrmhnawaz/Teensy-4.0-NXP-i.MX-RT1062-Tutorials)
-
-- 👨‍💻 All of my projects are available at [https://github.com/mrmhnawaz](https://github.com/mrmhnawaz)
-
-- 💬 Ask me about **Embedded-Microcontroller-Firmware-Arduino**
-
-- 📨 How to connect me **mdhussainnawaz19@gmail.com**
-
-- ⚡ Fun fact **I laugh at myself😂, but I won't allow others to laugh at me😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
