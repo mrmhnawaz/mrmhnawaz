@@ -7,14 +7,16 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrmhnawaz&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="mrmhnawaz" />
+  <img src="https://komarev.com/ghpvc/?username=mrmhnawaz&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mrmhnawaz&theme=onedark&no-frame=true&margin-w=15" alt="mrmhnawaz" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mrmhnawaz&theme=onedark&column=3&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" style="width: 40%;" />
   </a>
 </p>
+
+
 
 
 - 🔭💫I’m currently working on [Zephyr RTOS](https://github.com/mrmhnawaz/Zephyr-Applications-Synchronization-Mechanisms-and-Messaging-Techniques)
