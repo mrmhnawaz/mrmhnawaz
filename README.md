@@ -20,14 +20,14 @@
 
 🔹 Passionate about *Data Analytics*, transforming raw data into meaningful insights.  
 🔹 Certified in *Data Analytics Essentials* from *Cisco*.  
-🔹 Exploring *Power BI, SQL, and Python* for data-driven solutions. 
+🔹 Exploring *Power BI, SQL, and Python* for data-driven solutions.  
 🔹 Always eager to learn and grow in the *tech industry*
 
 ## Current Focus
 
 | 🛠️ | Details |
 |---|---|
-| **🔭💫 Working On** | ✔ SQL | Python | Power BI | Excel |
+| **🔭💫 Working On** | ✔ SQL  Python  Power BI  Excel |
 | **🧐 Tutorials** | [Teensy Tutorials](https://github.com/mrmhnawaz/Teensy-4.0-NXP-i.MX-RT1062-Tutorials) |
 | **👨‍💻 Projects** | [All Projects](https://github.com/mrmhnawaz) |
 | **📨 Contact** | [Email](mailto:mdhussainnawaz19@gmail.com) |
