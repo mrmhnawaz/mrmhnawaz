@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 34px; color: #000080;">Hi 👋, I'm Mohammed Hussain Nawaz</h1>
-<h3 align="center">I am a Dedicated Embedded Engineer with a Passion for Excellence</h3>
+<h3 align="center">Aspiring Data Analyst | Embedded Systems Enthusias</h3>
 <p align="center">
   <img src="https://images.playground.com/88983e3f47da41e990498e442f748ab1.jpeg" alt="GitHub Profile Image" width="450" height="260" />
 </p>
@@ -16,16 +16,20 @@
   </a>
 </p>
 
+## 🚀 About Me  
+
+🔹 Passionate about *Data Analytics*, transforming raw data into meaningful insights.  
+🔹 Certified in *Data Analytics Essentials* from *Cisco*.  
+🔹 Exploring *Power BI, SQL, and Python* for data-driven solutions. 
+🔹Always eager to learn and grow in the *tech industry*
 
 ## Current Focus
 
 | 🛠️ | Details |
 |---|---|
-| **🔭💫 Working On** | [Zephyr RTOS](https://github.com/mrmhnawaz/Zephyr-Applications-Synchronization-Mechanisms-and-Messaging-Techniques) |
-| **🏅🕒 Learning** | **Zephyr RTOS**, **DSA**, **Embedded Linux**, **Scripting** |
+| **🔭💫 Working On** | ✔ SQL | Python (Pandas, NumPy, Matplotlib, Seaborn) | Power BI | Excel |
 | **🧐 Tutorials** | [Teensy Tutorials](https://github.com/mrmhnawaz/Teensy-4.0-NXP-i.MX-RT1062-Tutorials) |
 | **👨‍💻 Projects** | [All Projects](https://github.com/mrmhnawaz) |
-| **💬 Ask Me About** | **Embedded Systems**, **Microcontroller Firmware**, **RTOS**, **Arduino** |
 | **📨 Contact** | [Email](mailto:mdhussainnawaz19@gmail.com) |
 | **⚡ Fun Fact** | I laugh at myself 😂, but I won't allow others to laugh at me 😉 |
 
@@ -54,14 +58,16 @@
 
 ## 🛠️ Skills
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-0078D4?style=for-the-badge&logo=embedded&logoColor=white)
-![Firmware Development](https://img.shields.io/badge/Firmware_Development-6DB33F?style=for-the-badge&logo=firmware&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![RTOS](https://img.shields.io/badge/RTOS-00599C?style=for-the-badge&logo=linux&logoColor=white)
-![Zephyr](https://img.shields.io/badge/Zephyr-0077C8?style=for-the-badge&logo=zephyrproject&logoColor=white)
 ![Communication Protocols](https://img.shields.io/badge/Communication_Protocols-FF4500?style=for-the-badge)
 
 <h3 align="left">Languages and Tools:</h3>
