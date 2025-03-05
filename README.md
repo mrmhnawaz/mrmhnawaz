@@ -21,13 +21,13 @@
 🔹 Passionate about *Data Analytics*, transforming raw data into meaningful insights.  
 🔹 Certified in *Data Analytics Essentials* from *Cisco*.  
 🔹 Exploring *Power BI, SQL, and Python* for data-driven solutions. 
-🔹Always eager to learn and grow in the *tech industry*
+🔹 Always eager to learn and grow in the *tech industry*
 
 ## Current Focus
 
 | 🛠️ | Details |
 |---|---|
-| **🔭💫 Working On** | ✔ SQL | Python (Pandas, NumPy, Matplotlib, Seaborn) | Power BI | Excel |
+| **🔭💫 Working On** | ✔ SQL | Python | Power BI | Excel |
 | **🧐 Tutorials** | [Teensy Tutorials](https://github.com/mrmhnawaz/Teensy-4.0-NXP-i.MX-RT1062-Tutorials) |
 | **👨‍💻 Projects** | [All Projects](https://github.com/mrmhnawaz) |
 | **📨 Contact** | [Email](mailto:mdhussainnawaz19@gmail.com) |
@@ -59,11 +59,11 @@
 ## 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)   
 ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-0078D4?style=for-the-badge&logo=embedded&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
